@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🔗 URL Shortener Service
 
 A robust, lightweight backend REST API built with Node.js, Express, PostgreSQL, and Drizzle ORM that converts long, complex URLs into concise, manageable short links and handles high-throughput redirection.
