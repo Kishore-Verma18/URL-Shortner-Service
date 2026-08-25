@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔗 URL Shortener Service
 
 A robust, lightweight backend REST API built with Node.js, Express, PostgreSQL, and Drizzle ORM that converts long, complex URLs into concise, manageable short links and handles high-throughput redirection.
@@ -196,3 +197,7 @@ The server will start listening on `http://localhost:8000`.
 ├── package.json          # Project dependencies & scripts
 └── README.md             # Documentation
 ```
+=======
+# URL-Shortner-Service
+"Built a robust, lightweight URL Shortener API powered by Node.js and Express.js. This project highlights my backend capabilities in schema design, API security, and high-throughput data processing."
+>>>>>>> fd283528fae8113aa0b9bbaa9f3656acfc32badc
